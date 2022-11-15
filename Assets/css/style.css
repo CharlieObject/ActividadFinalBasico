@@ -1,0 +1,13 @@
+body{
+    background-image:url(../Imagenes/paisaje.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:#ffffff;
+}
+
+.puntos-clientes{
+    color: #7d060a;
+    background-color: #7d060a;
+
+}
