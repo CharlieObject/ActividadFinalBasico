@@ -1,5 +1,13 @@
-body{
-    background-image:url(../Imagenes/paisaje.jpg);
+.sizecard {
+width: 18rem;
+}
+
+.tcard{
+font-family: 'Roboto', sans-serif;
+}
+
+.bodyCurriculum{
+    background-image:url(../img/paisaje.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
